@@ -1,0 +1,2 @@
+# configServer_springCloudConfig
+configServer for springCloudConfig application
